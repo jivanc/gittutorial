@@ -1,0 +1,2 @@
+this will cause a merge conflict
+This is a conflict
